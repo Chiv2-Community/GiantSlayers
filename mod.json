@@ -4,6 +4,7 @@
     "description": "Giant Slayers Mod for Chivalry 2 Unchained\n\nUsage:\nopen agmods?map=to_stronghold?mods=GiantSlayers",
     "mod_type": "Shared",
     "authors": [ "Nihi" ],
+    "dependencies": [ ],
     "tags": [ "Mods" ]
   }
       
